@@ -1,0 +1,85 @@
+[
+  {
+    "id": 100,
+    "name": "D-vitamin",
+    "price": 116,
+    "imgUrl": "/imgs/D-vitamin.png"
+    
+  },
+  {
+    "id": 101,
+    "name": "C-vitamin",
+    "price": 150,
+    "imgUrl": "/imgs/C-vitamin.jpg"
+  },
+  {
+    "id": 102,
+    "name": "C-vitamin Depot",
+    "price": 175,
+    "imgUrl": "/imgs/C-vitamin-depot.png"
+    
+  },
+  {
+    "id": 103,
+    "name": "Omega 3 fiskeolie",
+    "price": 69,
+    "imgUrl": "/imgs/Fish-oil.jpg"
+   
+  },
+  {
+    "id": 104,
+    "name": "Kaffekværn",
+    "price": 145,
+    "imgUrl": "/imgs/Coffee-grinder.jpg"
+   
+  },
+  {
+    "id": 105,
+    "name": "Kaffekværn Præcision",
+    "price": 320,
+    "imgUrl": "/imgs/Coffee-grinder-pro.jpg"
+
+  },
+  {
+    "id": 106,
+    "name": "Tandbørste",
+    "price": 40,
+    "imgUrl": "/imgs/Toothbrush.jpg"
+   
+  },
+  {
+    "id": 107,
+    "name": "Tandbørste i bambus",
+    "price": 40,
+    "imgUrl": "/imgs/Toothbrush-bamboo.jpg"
+   
+  },
+  {
+    "id": 108,
+    "name": "Barbermaskine",
+    "price": 200,
+    "imgUrl": "/imgs/Hair-trimmer-chord.png"
+   
+  },
+  {
+    "id": 109,
+    "name": "Barbermaskine m batteri",
+    "price": 350,
+    "imgUrl": "/imgs/Hair-trimmer-battery.jpg"
+    
+  },
+  {
+    "id": 110,
+    "name": "Hårklemme",
+    "price": 25,
+    "imgUrl": "/imgs/Hair-clip.png"
+   
+  },
+  {
+    "id": 111,
+    "name": "Hårklemme",
+    "price": 45,
+    "imgUrl": "/imgs/Hair-clip-large.png"
+    
+  }
+]
