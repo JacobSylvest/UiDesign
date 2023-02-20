@@ -85,7 +85,6 @@ ShoppingCartProviderProps) {
             })
         }
 
-
         return (
             <ShoppingCartContext.Provider 
                 value ={{

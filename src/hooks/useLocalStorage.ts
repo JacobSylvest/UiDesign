@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-//gets the value from local storage or going to give the initial value we passed in
+//gets the value from local storage or going to give the initial value we passed in. 
+// makes it poosible for user to reload without losing data
 export function useLocalStorage<T>(key: string, 
 initialValue:T | (()=> T)){
     const [value, setValue] = useState<T>(()=> {
